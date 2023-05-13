@@ -1,0 +1,10 @@
+C:\OOP Week 5\PD\My game\bin\Debug\My game.exe.config
+C:\OOP Week 5\PD\My game\bin\Debug\My game.exe
+C:\OOP Week 5\PD\My game\bin\Debug\My game.pdb
+C:\OOP Week 5\PD\My game\bin\Debug\EZInput.dll
+C:\OOP Week 5\PD\My game\bin\Debug\EZInput.xml
+C:\OOP Week 5\PD\My game\obj\Debug\My game.csproj.AssemblyReference.cache
+C:\OOP Week 5\PD\My game\obj\Debug\My game.csproj.CoreCompileInputs.cache
+C:\OOP Week 5\PD\My game\obj\Debug\My game.csproj.CopyComplete
+C:\OOP Week 5\PD\My game\obj\Debug\My game.exe
+C:\OOP Week 5\PD\My game\obj\Debug\My game.pdb
