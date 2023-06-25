@@ -1,0 +1,3 @@
+Muhammad,Ali,200
+Mahi,Ahmad,180
+Muhammad,Mahi,40

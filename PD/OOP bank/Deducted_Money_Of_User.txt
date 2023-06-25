@@ -1,0 +1,6 @@
+Mahi,Ahmad,100
+Muhammad,Ali,20
+Muhammad,Ali,50
+Mahi,Ahmad,20
+Muhammad,Mahi,20
+Muhammad,Mahi,40
